@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/haneul/workspace'
+let g:netrw_dirhist_2='/home/haneul/workspace/APIO'
+let g:netrw_dirhist_3='/home/haneul/workspace'
+let g:netrw_dirhist_4='/home/haneul/workspace/APIO'
+let g:netrw_dirhist_5='/home/haneul/workspace'
+let g:netrw_dirhist_6='/home/haneul/workspace/APIO'
+let g:netrw_dirhist_7='/home/haneul/workspace/APIO/12735 Boat'
